@@ -1,4 +1,4 @@
-package com.example.sonidolandia_app
+package com.JoArregui.sonidolandia_app
 
 import io.flutter.embedding.android.FlutterActivity
 
